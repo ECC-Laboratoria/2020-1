@@ -5,7 +5,7 @@
 
 ## Documentos importantes
 
-- [Temario](https://github.com/ECC-Laboratoria/2020-1/blob/master/docs/Syllabus.pdf)
+- [Temario](https://github.com/ECC-Laboratoria/2020-1/blob/master/docs/Course%20Syllabus.pdf)
 - [Calendario](https://github.com/ECC-Laboratoria/2020-1/blob/master/docs/Calendar.pdf)
 
 ## Recursos
