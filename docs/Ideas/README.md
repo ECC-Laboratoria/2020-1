@@ -1,10 +1,10 @@
-## Leda
+## Leda
 
 - Regalos de amigos 
 - Optimizar tareas rutinarias
 - Para mamás: control de actividades para la familia(tanto en casa como en la escuela)
 
-## Natasha
+## Natasha
 
 \-    Seguimiento de plantas (cuando al regué, etc) -> cuidados y riego
 
@@ -12,7 +12,7 @@
 
 \-    Organizador de tiempo y bolsillo (enfocado en finanzas)
 
-## Sofía
+## Sofía
 
 \-    Aprendizaje espaciado (entrenas a tu cerebro para recordar a futuro cosas que aprendiste en el pasado) Introducir nuevo vocabulario y que te haga tu calendario espaciado. -> con un feature extra con soporte para audio y texto.
 
@@ -20,7 +20,7 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 
 \-    **Tareas del supermercado con AI integrado -> una app de recordatorio inteligente.** 
 
-##  Pamela
+## Pamela
 
 \-    App para enseñar lenguaje de señas -> Flashcards con colores y buen diseño 
 
@@ -30,7 +30,7 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 
 \-    App para gestionar tiempo integrando el trabajo y la casa.
 
-## Ivon 
+## Ivon
 
 \-    **Matemáticas para niños -> enseñar con figuras, lógica.** 
 
@@ -38,7 +38,7 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 
 \-    **Servicio seguro de niñeras**
 
-##Tania
+## Tania
 
 - Recordatorio para bicis (cuando cambiar llantas, aceite)
 - Recordaorio de dietas específicas 
@@ -60,7 +60,7 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 - App para identificar colores base (enfocada a personas con daltonismo)
 - Edducación de AHA para saber conocimientos básicos de primeros auxilios. 
 
-## Silvya
+## Silvya
 
 - Enseñar el lenguaje de señas representando objetos (y no abecedario)
 - Inventario personal para saber qué sí ocupas y qué no
