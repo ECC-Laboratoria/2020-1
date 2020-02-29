@@ -7,7 +7,7 @@
 
 ## Ideas
 
-- [Lista de ideas por desarrollar]()
+- [Lista de ideas por desarrollar](https://github.com/ECC-Laboratoria/2020-1/tree/master/docs/Ideas)
 
 ## Documentos importantes
 
