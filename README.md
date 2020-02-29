@@ -3,6 +3,12 @@
 ## !Bienvenid@s! 
 Éste es el repositorio de la segunda generación (1er semestre del 2020) del curso **Everyone Can Code @ Laboratoria**. 
 
+
+
+## Ideas
+
+- [Lista de ideas por desarrollar]()
+
 ## Documentos importantes
 
 - [Temario](https://github.com/ECC-Laboratoria/2020-1/blob/master/docs/Syllabus.pdf)
