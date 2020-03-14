@@ -1,34 +1,36 @@
+# Ideas...
+
+- [Revisión de ideas](https://github.com/ECC-Laboratoria/2020-1/tree/master/docs/Ideas/RevisiónIdeas)
+
 ## Leda
 
 - Regalos de amigos 
 - Optimizar tareas rutinarias
-- Para mamás: control de actividades para la familia(tanto en casa como en la escuela)
+- **Para mamás: control de actividades para la familia(tanto en casa como en la escuela)**
 
 ## Natasha
 
-\-    Seguimiento de plantas (cuando al regué, etc) -> cuidados y riego
+\-    **Seguimiento de plantas (cuando al regué, etc) -> cuidados y riego**
 
-\-    Flashcards con nuevo vocabulario de inglés con recordatorios (para frases y palabras)
+\-   **Flashcards con nuevo vocabulario de inglés con recordatorios (para frases y palabras)**
 
-\-    Organizador de tiempo y bolsillo (enfocado en finanzas)
+**\-    Organizador de tiempo y bolsillo (enfocado en finanzas)**
 
 ## Sofía
 
 \-    Aprendizaje espaciado (entrenas a tu cerebro para recordar a futuro cosas que aprendiste en el pasado) Introducir nuevo vocabulario y que te haga tu calendario espaciado. -> con un feature extra con soporte para audio y texto.
 
-o  Leda: tomar foto y traducir texto del ticket por ejemplo. 
-
-\-    **Tareas del supermercado con AI integrado -> una app de recordatorio inteligente.** 
+\-   Tareas del supermercado con AI integrado -> una app de recordatorio inteligente. 
 
 ## Pamela
 
-\-    App para enseñar lenguaje de señas -> Flashcards con colores y buen diseño 
+\-    **App para enseñar lenguaje de señas -> Flashcards con colores y buen diseño** 
 
 \-    Generar música para personas con discapacidades auditivas.
 
 \-    Yoga para niños (relajación para niños)
 
-\-    App para gestionar tiempo integrando el trabajo y la casa.
+\-    **App para gestionar tiempo integrando el trabajo y la casa.**
 
 ## Ivon
 
@@ -36,17 +38,17 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 
 \-    **Agenda de actividades para niños** 
 
-\-    **Servicio seguro de niñeras**
+\-    Servicio seguro de niñeras
 
 ## Tania
 
-- Recordatorio para bicis (cuando cambiar llantas, aceite)
-- Recordaorio de dietas específicas 
-- Guardar trayectos de bicis (¿cuáles son las mejores rutas?)
+- **Recordatorio para bicis (cuando cambiar llantas, aceite)**
+- **Recordaorio de dietas específicas** 
+- **Guardar trayectos de bicis (¿cuáles son las mejores rutas?)**
 
 ## Viridiana 
 
-- App para acomodar actividades el hogar (con recordatorios) ¿qué dia te toca hacer tal?
+- **App para acomodar actividades el hogar (con recordatorios) ¿qué dia te toca hacer tal?**
 - Profesor pone las tareas y los papás  puedan ver las tareas que les dejaon. 
 - Recordatorio de citas para dentistas
 - Home services app 
@@ -54,22 +56,22 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 ## Olga 
 
 - App para discpacidades auditivas:
-  - Jalan canciones famosas a vibraciones y con AR a colores 
-- App para personas con daltonismo 
+  - Bajan canciones famosas a vibraciones y con AR a colores 
+- App para personas con daltonismo
   - Diganóstico para saber si los niños tienen daltonismo 
 - App para identificar colores base (enfocada a personas con daltonismo)
-- Edducación de AHA para saber conocimientos básicos de primeros auxilios. 
+- **Educación de AHA para saber conocimientos básicos de primeros auxilios.** 
 
 ## Silvya
 
-- Enseñar el lenguaje de señas representando objetos (y no abecedario)
+- **Enseñar el lenguaje de señas representando objetos (y no abecedario)**
 - Inventario personal para saber qué sí ocupas y qué no
-- Coleccion de libros personales (tomar foto para guardarlos)
+- **Coleccion de libros personales (tomar foto para guardarlos)**
 - Guardar en notas (voz o texto) el lugar donde guardas las cosas (para persona olvidadizas)
-- Diario financiero para niños (buscando hábitos de ahorro)
+- **Diario financiero para niños (buscando hábitos de ahorro**)
 - Memorama para ayudar a personas con TDA/autismo a enfocarse. 
   - lenguaje con sus familias
-- Primeros auxilios
+- **Primeros auxilios**
 
 ## Celina
 
@@ -80,7 +82,7 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 
 ## Mayra
 
-- App para administración de plantas
+- **App para administración de plantas**
   - Tomar foto e identificar la planta para conocer sus necesidades
     - Dependiendo de sus necesidades, saber cada cuanto regarlas, etc
 -  Menú con recetas precargadas enfocados a vegetarianos. 
@@ -100,22 +102,22 @@ o  Leda: tomar foto y traducir texto del ticket por ejemplo.
 
 ## Ana
 
-- App enfocada en finanzas para registrar gastos hormiga 
+- **App enfocada en finanzas para registrar gastos hormiga** 
   - Comparaciones entre un mes y otro
   - Porcentaje de cuanto has ahorrado o gastado de más
-- Registrar comida chatarra 
+- **Registrar comida chatarra** 
   - ¿En cuantos pasos puedes quemar las calorías extra?
-- Formar hábitos saludables
+- **Formar hábitos saludables**
   - Sustitución de comida 'x' por comida 'y' que es más saludable
 
 ## Adriana
 
-- Glosario de lenguaje de señas 
+- **Glosario de lenguaje de señas** 
 - "Tinder" de ideas entre empresas para que los empleados decidan las mejores ideas para trabajar 
 
 ## Isis
 
-- App con tabla de colores para resistencias
+- **App con tabla de colores para resistencias**
   - que resistencias comerciales equivalen a la que quieres
 - Buscar mejorías en typing usando el apple watch
-- Calendario de medicinas (recordatorios de cuando tomarlas y en qué cantidad)
+- **Calendario de medicinas (recordatorios de cuando tomarlas y en qué cantidad)**
