@@ -122,7 +122,7 @@ identifyObject(object: roberPlant) {
 }
 
 
-//Enum Instrument -> un caso para cada instrumento (case bass, case guitar, ... )
+//Enum Puesto -> un caso para cada instrumento (case guitarrita, vocalista)
 //Struct llamada Tacubo(name: String, age: Int, instrument: Enum(Instrument))
 //Crear a los cuatro integrantes de cafe tacuba como objetos
 //func getTacubos(tacubos: [Tacubo], tacuboClosure: (Tacubo) -> Void)
@@ -130,8 +130,54 @@ identifyObject(object: roberPlant) {
 
 //Output:
 /*
-    Meme tiene 50 años y toca teclado en Café Tacvba
+    Meme tiene 50 años y es el tecladista en Café Tacvba
     Rubén tiene 46 años y toca guitarra en Café Tacvba
     Joselo tiene 53 años y toca bajo en Café Tacvba
     Quique tiene 59 años y toca microfono en Café Tacvba
  */
+
+enum Role {
+    case guitar, vocals, bass, drums, arp
+}
+
+struct Tacubo {
+    var name: String
+    var age: Int
+    var role: Role
+    
+    func getRoleName() -> String {
+        switch self.role {
+        case .bass:
+            return "plays the bass"
+        case .drums:
+            return "plays the drums"
+        case .guitar:
+            return "plays the guitar"
+        case .vocals:
+            return "sings"
+        default:
+            return "play unknown instrument"
+        }
+    }
+}
+
+let meme = Tacubo(name: "Meme", age: 50, role: .vocals)
+let quique = Tacubo(name: "Quique", age: 54, role: .guitar)
+let ruben = Tacubo(name: "Ruben", age: 52, role: .drums)
+let joselo = Tacubo(name: "Joselo", age: 53, role: .bass)
+
+let tacubos = [meme, quique, ruben, joselo]
+
+func getTacubos(_ tacubos: [Tacubo], tacuboClosure: (Tacubo) -> Void) {
+    for tacubo in tacubos {
+        tacuboClosure(tacubo)
+    }
+}
+print("\n\n")
+getTacubos(tacubos) { (t: Tacubo) in
+    let name = t.name
+    let age = t.age
+    let roleString = t.getRoleName()
+    print("\(name) has \(age) year and \(roleString)")
+}
+
