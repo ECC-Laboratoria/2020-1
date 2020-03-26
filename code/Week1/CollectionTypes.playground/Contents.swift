@@ -72,7 +72,7 @@ for (key, name) in airports {
 for key in airports.keys {
     print(key)
 }
-for value in airports.values {
+for value in airports.values{
     print(value)
 }
 
